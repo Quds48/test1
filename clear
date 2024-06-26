@@ -1,0 +1,81 @@
+[33mcommit 7ee3820fa339b5aed7165c9763dd03a9f6868455[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ali007 <ali007@gmail.com>
+Date:   Mon Jun 24 15:58:20 2024 +0000
+
+    remove ind5
+
+[33mcommit 218e9f305ad936ba2de39163ab148bd8bc373e87[m
+Author: ali007 <ali007@gmail.com>
+Date:   Mon Jun 24 15:58:00 2024 +0000
+
+    remove ind4
+
+[33mcommit 0fbb934a47e4262bc8cb95d83ed42c15b4e92b52[m
+Author: ali007 <ali007@gmail.com>
+Date:   Mon Jun 24 15:57:22 2024 +0000
+
+    remove ind3
+
+[33mcommit 408af7fe4dc7b7d827f47fb1d4d10528eb1acce5[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 02:07:35 2024 +0000
+
+    ..Revert "index5.html deleted"
+    
+    This reverts commit d896cccd6a996547adb4ea8dcd4837275434be62.
+
+[33mcommit a44c4a40d0ea8e9501c49be1b3c64193dfc83f37[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 02:04:43 2024 +0000
+
+    delete index5.html
+
+[33mcommit 2efb3d0f06f6fcc475df2a0efef27e04d22eac17[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:54:55 2024 +0000
+
+    ...Revert "index5.html deleted"
+    
+    This reverts commit d896cccd6a996547adb4ea8dcd4837275434be62.
+
+[33mcommit d896cccd6a996547adb4ea8dcd4837275434be62[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:52:27 2024 +0000
+
+    index5.html deleted
+
+[33mcommit 50971a7ec6b688e6b2b4ce5387601c4979ca9d21[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:51:26 2024 +0000
+
+    Committing changes to index5.html
+
+[33mcommit 935b326ab9c6160bcd1133bfd9200a25abdd89df[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:46:18 2024 +0000
+
+    removed a file
+
+[33mcommit ad0037b1b359220b009415d8dfba3f167165fc8b[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:44:54 2024 +0000
+
+    add new file
+
+[33mcommit d842ec3cb5c80fbc7668309e30d4320cf1cb48d7[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:44:03 2024 +0000
+
+    added new file
+
+[33mcommit 1b588c7bf064a167da67a232ffd0d1ad640df63b[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 01:34:49 2024 +0000
+
+    deleted file in2
+
+[33mcommit ccdabc27980fbf2f271a49ebf449f8a85bc208ae[m
+Author: ali007 <ali007@gmail.com>
+Date:   Sat Jun 22 00:57:45 2024 +0000
+
+    adding file index1.html and index2.html
